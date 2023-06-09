@@ -2,7 +2,15 @@
 
 ### Partner Activity
 
-**Instructions:** Below are some silly icebreaker questions. With a partner, take turns doing the following: - Answer a question - Commit your changes - Push to Github - Pull your partner's changes
+**Instructions:** Below are some silly icebreaker questions. With a partner, take turns doing the following:
+
+-   Answer a question
+
+-   Commit your changes
+
+-   Push to Github
+
+-   Pull your partner's changes
 
 To start, be careful not to make changes on the same line -- this can introduce merge conflicts! But if you are feeling comfortable with the basics above, feel free to play around and see if you can identify and resolve conflicts.
 
@@ -10,8 +18,19 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 *Answer:*
 
-
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
+
+*Answer:*
+
+**Question 3.** What is your go-to karaoke anthem?
+
+*Answer:*
+
+**Question 4.** What is your go-to karaoke anthem?
+
+*Answer:*
+
+**Question 5.** What is your favourite random fact?
 
 *Answer:*
 
