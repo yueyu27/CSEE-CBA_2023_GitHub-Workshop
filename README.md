@@ -6,4 +6,4 @@ This repository stores an Rmarkdown document that you and your partner will take
 
 **Repository contents:**
 * *CSEE_GitHub-Workshop.Rproj* - An RProject with version control that allows us to interact with GitHub through RStudio
-* *CSEE_GitHub-Workshop_Activity.Rmd* - An Rmarkdown document with silly questions that we will use to practice version control functions 
+* *CSEE_GitHub-Workshop_Activity.md* - A markdown document with silly questions that we will use to practice version control functions 
