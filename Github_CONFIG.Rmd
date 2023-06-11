@@ -8,32 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-**Before the start of the working group**, we'd like you to: - make sure
-you have git installed - create a GitHub account - configure git so that
-it links to you GitHub account - create and store a Personal Access
-Token - practice commits, pushes, and pulls
-
-The following tutorial will help walk you through each of these steps!
-Please attend our office hours, or contact us directly, if you need help
-with any of these steps.
-
-### Install Git on your computer
-
-There are several options for installing git on your own computer.
-Github has a handy [installation
-guide](https://github.com/git-guides/install-git) on their website, and
-[this guide](https://happygitwithr.com/install-git.html) has some
-helpful additional instructions.
-
-To check if you already have git installed, open up your terminal or
-command line and enter `git version`
-
-Many (but not all!) of the options for installation are command line
-based, which can be intimidating if you're not used to it. If you
-encounter any issues installing git, please contact Sam Straus at
-[samantha.straus\@mcgill.ca](mailto:samantha.straus@mcgill.ca){.email}.
-
-#### Configure git
+### Configure git
 
 We're demonstrating an approach to configuring your git account using
 Rstudio, but there is also a very simple command line approach you can
