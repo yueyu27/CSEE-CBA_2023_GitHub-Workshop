@@ -26,11 +26,11 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 *Answer:*
 
-**Question 4.** What is your go-to karaoke anthem?
+**Question 4.** Who is your favorite Canadian icon? E.g., Gordon Lightfoot, Rush, beavers etc.
 
 *Answer:*
 
-**Question 5.** What is your favourite random fact?
+**Question 5.** Which fictional ecosystem would you study if you could? E.g., the sand dunes of Arrakis, the Misty Mountains.
 
 *Answer:*
 
