@@ -16,7 +16,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 1.** If you could be an animal for a day, which would you choose and why?
 
-*Answer:???????
+*Answer:???
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
@@ -24,7 +24,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 3.** What is your go-to karaoke anthem?
 
-*Answer:*
+*Answer:
 
 **Question 4.** Who is your favorite Canadian icon? E.g., Gordon Lightfoot, Rush, beavers etc.
 
